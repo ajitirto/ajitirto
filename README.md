@@ -1,22 +1,23 @@
- 
-# Hi there 👋 , I'm ajitirto!
+### Hi there 👋, my name is **ajitirto**
+####  I am is Programming Enthusiastic
+people who are deepening their knowledge of informatics engineering
+
+Skills: Python// Php// Html// Javascript
+
+- 🔭 I’m currently working on this page.  
+- 🌱 I’m currently learning programming algorithm 
+- 📫 How to reach me:  (http://wa.me/081358344655) 
+- 😄 Pronouns: he 
 
 
-My username is  ajitirto , I am is Programming Enthusiastic, ✨ _people who are deepening their knowledge of informatics engineering_ ✨ 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ajitirto)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aji_tirto_prayogo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/prayogo_tirto)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/7392280)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ajiwoke.wordpress.com/)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitirto)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajitirto&show_icons=true)  
 
-- 🌱 I’m currently learning programming algorithm
-- 📫 How to reach me: (http://wa.me/081358344655)
-- 😄 Pronouns: He
-- ⚡ Language: Python, Php, Html, Javascript
+![GitHub metrics](https://metrics.lecoq.io/ajitirto)  
 
-## Some of my Github Stats
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ajitirto)  
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=ajitirto alt=ajitirto /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ajitirto&show_icons=true&include_all_commits=true)](https://github.com/ajitirto/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitirto&layout=compact)](https://github.com/ajitirtoi/github-readme-stats)
-
-⭐️ From [Aji Tirto ](https://github.com/ajitirto)
+![Profile views](https://gpvc.arturio.dev/ajitirto)  
