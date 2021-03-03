@@ -18,6 +18,4 @@ Skills: Python// Php// Html// Javascript
 
 ![GitHub metrics](https://metrics.lecoq.io/ajitirto)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ajitirto)  
-
 ![Profile views](https://gpvc.arturio.dev/ajitirto)  
