@@ -2,8 +2,15 @@
 # Hi there 👋 , I'm ajitirto!
 
 
-My username **]ajitirto**, I am is Programming Enthusiastic, ✨ _people who are deepening their knowledge of informatics engineering_ ✨ 
+My username is  ajitirto , I am is Programming Enthusiastic, ✨ _people who are deepening their knowledge of informatics engineering_ ✨ 
 
+
+<p>
+    <a href="https://ajiwoke.wordpress.com" target="blank"><img src="https://img.shields.io/badge/Website-ajiwoke-green?" /></a>
+    <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
+    <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
+</p>
 
 Here are some ideas to get you started:
 
