@@ -9,16 +9,10 @@ Skills: Python// Php// Html// Javascript
 - 📫 How to reach me:  (http://wa.me/081358344655) 
 - 😄 Pronouns: he 
 
-    <table>
-        <tr>
-            <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitirto)](https://github.com/anuraghazra/github-readme-stats)</td>
-            <td>![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajitirto&show_icons=true)  </td>
-        </tr>
 
-    </table>
-
-
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitirto)](https://github.com/anuraghazra/github-readme-stats)
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajitirto&show_icons=true)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajitirto&show_icons=true)  
 
