@@ -6,7 +6,6 @@ Skills: Python// Php//
 
 - 🔭 I’m currently working on this page.  
 - 🌱 I’m currently learning programming algorithm 
-- 📫 How to reach me:  (http://wa.me/081358344655) 
 - 😄 Pronouns: he 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajitirto&show_icons=true)  
