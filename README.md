@@ -2,7 +2,7 @@
 ####  I am is Programming Enthusiastic
 people who are deepening their knowledge of informatics engineering
 
-Skills: Python// Php// Html// Javascript
+Skills: Python// Php// 
 
 - 🔭 I’m currently working on this page.  
 - 🌱 I’m currently learning programming algorithm 
