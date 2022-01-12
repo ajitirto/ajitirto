@@ -16,7 +16,7 @@ I look forward to being part of your team.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajitirto&show_icons=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitirto)](https://github.com/ajitirto/ajitirto)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajitirto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aji_tirto_prayogo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/prayogo_tirto)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/7392280)  
