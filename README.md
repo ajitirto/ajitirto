@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is **ajitirto**
-####  I am a 23 year old  Programming Enthusiastic from Indonesia
+####  I am a 23 year old  Programming Enthusiastic from Surakarta
 
 I am very interested in new things related to web development.
 Thank you for your attention.
