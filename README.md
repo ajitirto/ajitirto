@@ -8,6 +8,10 @@
 <h4 align="center">I am very interested in new things related to web development.
 Thank you for your attention. I look forward to being part of your team.</h4>
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comic-sans&color=5000F7&center=true&lines=Taman+Bermain+%40ajitirto;hore+.+.+.+hore+.+.+.+hore+.+.+.)](https://git.io/typing-svg)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitirto&label=Profile%20views&color=0e75b6&style=flat" alt="ajitirto" /> </p>
 
 - 📝 I regularly write articles on [http://website-ajitirto.my.id/](http://website-ajitirto.my.id/)
