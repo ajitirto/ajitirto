@@ -5,11 +5,12 @@
 
 <h1 align="center">Hi 👋, I'm Ajitirto</h1>
 <h3 align="center">A passionate fullstack developer from Surakarta</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=2000&color=3522F7&lines=Taman+Bermain+%40ajitirto;hore+.+.+.+hore+.+.+.+hore+.+.+.)](https://git.io/typing-svg)
+
 <h4 align="center">I am very interested in new things related to web development.
 Thank you for your attention. I look forward to being part of your team.</h4>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comic-sans&color=5000F7&center=true&lines=Taman+Bermain+%40ajitirto;hore+.+.+.+hore+.+.+.+hore+.+.+.)](https://git.io/typing-svg)
+<br/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitirto&label=Profile%20views&color=0e75b6&style=flat" alt="ajitirto" /> </p>
