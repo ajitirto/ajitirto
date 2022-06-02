@@ -15,13 +15,13 @@ Thank you for your attention. I look forward to being part of your team.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitirto&label=Profile%20views&color=0e75b6&style=flat" alt="ajitirto" /> </p>
 
-- 📝 I regularly write articles on [http://website-ajitirto.my.id/](http://website-ajitirto.my.id/)
+- 📝 My Personal website : [http://website-ajitirto.my.id/](http://website-ajitirto.my.id/)
 
 - 💬 Ask me about **Laravel, Codeigneter, NextJS**
 
 - 📫 How to reach me **ajiwoke@gmail.com**
 
-- ⚡ Fun fact **i am fat progrmmer**
+- ⚡ Fun fact ** Suka bermain gitar **
 
 
 
