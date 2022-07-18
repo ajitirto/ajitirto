@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=2000&color=3522F7&lines=Taman+Bermain+%40ajitirto;hore+.+.+.+hore+.+.+.+hore+.+.+.)](https://git.io/typing-svg)
 
 <h4 align="center">I am very interested in new things related to web development.
-Thank you for your attention. I look forward to being part of your team.</h4>
+Thank you for your attention.</h4>
 <br/>
 
 
@@ -21,7 +21,7 @@ Thank you for your attention. I look forward to being part of your team.</h4>
 
 - 📫 How to reach me **ajiwoke@gmail.com**
 
-- ⚡ Fun fact ** Suka bermain gitar **
+- ⚡ Fun fact **Suka bermain gitar**
 
 
 
