@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ajitirto</h1>
-<h3 align="center">A passionate fullstack developer from Surakarta</h3>
+<h3 align="center">A passionate Backend developer from Surakarta</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=2000&color=3522F7&lines=Taman+Bermain+%40ajitirto;hore+.+.+.+hore+.+.+.+hore+.+.+.)](https://git.io/typing-svg)
 
@@ -17,7 +17,7 @@ Thank you for your attention.</h4>
 
 - 📝 My Personal website : [http://website-ajitirto.my.id/](http://website-ajitirto.my.id/)
 
-- 💬 Ask me about **Laravel, Codeigneter, NextJS**
+- 💬 Ask me about **Laravel, Golang**
 
 - 📫 How to reach me **ajiwoke@gmail.com**
 
