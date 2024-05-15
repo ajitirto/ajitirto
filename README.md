@@ -1,5 +1,1 @@
-<h1>Hi 👋</h1>
-
-<!--<p > <a href="https://twitter.com/prayogo_tirto" target="blank"><img src="https://img.shields.io/twitter/follow/prayogo_tirto?logo=twitter&style=for-the-badge" alt="prayogo_tirto" /></a> </p>-->
-
-<!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajitirto&" alt="ajitirto" /></p>-->
+# Hi there, <img src = "https://github.com/ajitirto/ajitirto/blob/main/wavehand.gif" width = "40" align="center"> Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> 
