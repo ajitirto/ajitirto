@@ -3,7 +3,9 @@
 <!-- BLOG-POST-LIST:START -->
 <details>
 	<summary>Blog Posts</summary>
-	- [Alias di Bash Linux](https://medium.com/@ajitirtoprayogo/alias-di-bash-linux-554d7936bdeb)
+    <ul>
+        <a href="https://medium.com/@ajitirtoprayogo/alias-di-bash-linux-554d7936bdeb">Alias di Bash Linux</a>
+    </ul>
 </details>
 
 <details>
