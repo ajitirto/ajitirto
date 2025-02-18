@@ -1,5 +1,15 @@
 # Hi <img src = "https://github.com/ajitirto/ajitirto/blob/main/wavehand.gif" width = "40" align="center">
 
+### Learn
+
+<details>
+	<summary>Think flow</summary>
+    <ul>
+        <img src = "https://github.com/ajitirto/ajitirto/blob/main/learn.png" width = "40" align="center">
+    </ul>
+</details>
+
+
 <!-- BLOG-POST-LIST:START -->
 <details>
 	<summary>Blog Posts</summary>
