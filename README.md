@@ -2,12 +2,12 @@
 
 <img src = "https://github.com/ajitirto/ajitirto/blob/main/learn.png"  align="center">
 
-<details>
+<!-- <details>
 	<summary>Think flow</summary>
     <ul>
         <img src = "https://github.com/ajitirto/ajitirto/blob/main/learn.png"  align="center">
     </ul>
-</details>
+</details> -->
 
 
 <!-- BLOG-POST-LIST:START -->
