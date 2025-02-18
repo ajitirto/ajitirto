@@ -5,7 +5,7 @@
 <details>
 	<summary>Think flow</summary>
     <ul>
-        <img src = "https://github.com/ajitirto/ajitirto/blob/main/learn.png" width = "40" align="center">
+        <img src = "https://github.com/ajitirto/ajitirto/blob/main/learn.png"  align="center">
     </ul>
 </details>
 
