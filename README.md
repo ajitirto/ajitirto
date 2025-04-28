@@ -6,6 +6,11 @@
 
 <!-- BLOG-POST-LIST:START -->
 <details>
+	<summary><img src = "./images/tool.gif" width = "30" align="center"> Tools  </summary>
+    
+</details>
+
+<details>
 	<summary><img src = "./images/blog.gif" width = "30" align="center"> Blog Posts   </summary>
     <ul>
         <a href="https://medium.com/@ajitirtoprayogo/alias-di-bash-linux-554d7936bdeb">Alias di Bash Linux</a>
@@ -26,3 +31,7 @@
   [![GitLab Profile](https://img.shields.io/badge/GitLab-ajitirto-FCA121?logo=gitlab)](https://gitlab.com/ajitirto)
 </details>
 
+<div> <br /> <br /> </div>
+
+- 📄 <a href="https://drive.google.com/file/d/1XeJUIumt7eM_T3MFU31WtxV8uReVIJgx/view?usp=sharing" target="blank">Resume</a>
+<br/>
