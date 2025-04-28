@@ -23,6 +23,8 @@
 <details>
 	<summary> <img src = "./images/grafik.gif" width = "30" align="center">  Status</summary>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitirto&hide=TeX&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=ajitirto&hide=TeX&layout=compact">
+
 </details>
 
 
