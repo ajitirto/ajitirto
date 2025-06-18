@@ -15,7 +15,7 @@
 <details>
 	<summary><img src = "./images/blog.gif" width = "30" align="center"> Blog Posts   </summary>
     <ul>
-        <a href="https://medium.com/@ajitirtoprayogo/alias-di-bash-linux-554d7936bdeb">Alias di Bash Linux</a>
+        <a href="https://ajitirtoprayogo.medium.com/catatan-pull-request-0b66fbc2bf46">Pull Request: Kunci Kolaborasi Efektif di GitHub</a>
     </ul>
 </details>
 
