@@ -50,10 +50,3 @@
 </details>
 
 
-## 
-
-<details>
-  <summary> <a href="https://drive.google.com/file/d/1XeJUIumt7eM_T3MFU31WtxV8uReVIJgx/view?usp=sharing" target="blank"> 📄 Resume</a></summary>
-</details>
-
-
