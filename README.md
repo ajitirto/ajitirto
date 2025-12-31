@@ -83,4 +83,4 @@
         <a href="https://medium.com/@ajitirtoprayogo/bye-bye-ftp-halo-git-pull-cara-cepat-deploy-proyekmu-a63f0e0fe982">Bye-bye FTP, Halo Git Pull: Cara Lebih Cepat Untuk Deploy</a>
       </li>
     </ul>
-re</details>
+</details>
