@@ -1,4 +1,4 @@
-# Hi there, I'm [Aji](https://ajitirto.my.id)! <img src = "./images/wavehand.gif" width = "30" align="center">  
+### Hi there, I'm [Aji](https://ajitirto.my.id)! <img src = "./images/wavehand.gif" width = "30" align="center">  
 
 
 - 🔭 Working as a Freelance Software Engineer specializing in Full stack & DevOps automation
