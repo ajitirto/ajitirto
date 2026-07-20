@@ -1,8 +1,19 @@
-# Hi <img src = "./images/wavehand.gif" width = "30" align="center">  
+# Hi there, I'm Aji  <img src = "./images/wavehand.gif" width = "30" align="center">  
 
-<img src = "./images/learn.png"  align="center">
 
- <br />
+🔭 Working as a Freelance Software Engineer specializing in Full stack & DevOps automation
+🏠 Building Central Portfolio & Blog — an Astro site deployed on GitHub Pages
+📚 Mentoring private students on Git version control, server management, and database optimization
+🤖 Experimenting with local database agentic automation using Model Context Protocol (MCP) + MySQL
+🤝 Automated examination management systems for educators using Google Apps Script
+⚙️ Managing cloud-native environments using Kubernetes (Kind/K3s) and Docker
+💬 Ask me about Golang, TypeScript, Next.js, Kubernetes, and CI/CD Pipelines
+😄 Pronouns: he/him
+⚡ Fun fact: My development environment lives entirely in the terminal via Neovim, Tmux, and Zsh 💻
+
+<!-- <img src = "./images/learn.png"  align="center"> -->
+<!---->
+<!--  <br /> -->
 
 <details>
 	<summary> Programming Languages  </summary>
