@@ -2,17 +2,14 @@
 
 
 - 🔭 Working as a Freelance Software Engineer specializing in Full stack & DevOps automation
-- 🏠 Building Central Portfolio & Blog 
 - 📚 Mentoring private students on Git version control, server management, and database optimization
-- 🤖 Experimenting with agentic AI 
-- 🤝 Automated examination management systems for educators using Google Apps Script
+- 🤖 Experimenting with agentic AI, AI Orchestration
 - 💬 Ask me about Golang, Python, Next.js, Kube, and CI/CD Pipelines
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My development environment lives entirely in the terminal via Neovim, Tmux, and Zsh 💻
 
 
-<details>
-	<summary> Programming Languages  </summary>
+<details> <summary> Programming Languages  </summary>
      <p align="left">
     <a href="https://doc.rust-lang.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
